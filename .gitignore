@@ -1,0 +1,49 @@
+# Ignore QGIS-generated backup files
+*.qgs~
+*.qgz~
+
+# Ignore QGIS log files
+*.log
+
+# Ignore temporary files created by QGIS
+*.aux.xml
+*.gfs
+
+# Ignore spatial index files
+*.qix
+*.idx
+
+# Ignore georeferencing world files
+*.tfw
+*.jgw
+*.pgw
+*.wld
+
+# Ignore cache files
+*.cache
+
+# Ignore Python cache files (if using Python scripts with QGIS)
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments (if using Python for plugins or scripts)
+.env/
+.venv/
+
+# Ignore large GIS data files (optional, if you don't want to track data files)
+*.tif
+*.shp
+*.dbf
+*.prj
+*.shx
+*.geojson
+*.gml
+
+# Ignore directories for data storage (optional)
+data/
+output/
+
+# Ignore project-specific settings and temporary directories
+.DS_Store
+Thumbs.db
