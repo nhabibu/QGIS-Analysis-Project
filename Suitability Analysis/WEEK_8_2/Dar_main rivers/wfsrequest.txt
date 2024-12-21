@@ -1,0 +1,1 @@
+https://geonode.resilienceacademy.ac.tz/geoserver/ows?access_token=None?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Adar_es_salaam_main_river_channels&outputFormat=SHAPE-ZIP&srs=EPSG%3A32737&format_options=charset%3AUTF-8
