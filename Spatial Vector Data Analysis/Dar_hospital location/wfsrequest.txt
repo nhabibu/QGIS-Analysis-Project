@@ -1,0 +1,1 @@
+https://geonode.resilienceacademy.ac.tz/geoserver/ows?access_token=None?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3ADar_es_Salaam_Hospital_Points&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8

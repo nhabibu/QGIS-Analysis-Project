@@ -1,0 +1,1 @@
+https://geonode.resilienceacademy.ac.tz/geoserver/ows?access_token=None?service=WFS&version=1.0.0&request=GetFeature&typename=geonode%3Adar_es_salaam_water_points&outputFormat=SHAPE-ZIP&srs=EPSG%3A4326&format_options=charset%3AUTF-8

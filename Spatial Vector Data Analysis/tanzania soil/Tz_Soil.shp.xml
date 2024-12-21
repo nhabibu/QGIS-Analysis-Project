@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>ILRI GIS unit</origin>
+				<pubdate>March 2005</pubdate>
+				<title Sync="TRUE">soil</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>\\ILRIKE-LB8-6700\</onlink>
+				<ftname Sync="TRUE">soil</ftname></citeinfo>
+		</citation>
+		<descript>
+			<langdata Sync="TRUE">en</langdata><abstract>soil type distribution map of Tanzania</abstract><purpose>show soil variability in Tanzania</purpose></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">29.044020</westbc>
+				<eastbc Sync="TRUE">40.443218</eastbc>
+				<northbc Sync="TRUE">-0.990736</northbc>
+				<southbc Sync="TRUE">-11.745700</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">29.044020</leftbc><rightbc Sync="TRUE">40.443218</rightbc><bottombc Sync="TRUE">-11.745700</bottombc><topbc Sync="TRUE">-0.990736</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekey>soil Tanzania</themekey></theme>
+		</keywords>
+		<accconst>contact ILRI GIS unit</accconst>
+		<useconst>Inform ILRI GIS unit</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Russ Kruska</cntper>
+					<cntorg>ILRI</cntorg>
+				</cntperp>
+				<cntpos>Head GIS lab</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Box 30709 old Naivasha road</address>
+					<city>Nairobi</city>
+					<postal>00100</postal>
+					<country>Kenya</country>
+				</cntaddr>
+				<cntvoice>254-20-4223000</cntvoice>
+				<cntfax>254-20-4223001</cntfax>
+				<cntemail>rkruska@cgiar.org</cntemail>
+				<hours>0800-1700hrs</hours>
+				<cntinst>contact ILRI GIS unit</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<lineage>
+			<procstep>
+				<procdesc>Dataset copied.</procdesc>
+				<srcused>C:\ILRI_Data_Catalogue\ILRI_Thematic_sections\Targeting R&amp;D Opportunities\Specific_projects\JICA_water project\Data\Keiyo_trueContours</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\pkariuki\LOCALS~1\Temp\xml38.tmp</srcused><date Sync="TRUE">20050817</date><time Sync="TRUE">16025400</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><date Sync="TRUE">20060817</date><time Sync="TRUE">16035600</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><date Sync="TRUE">20060817</date><time Sync="TRUE">16181300</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="soil">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">594</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="soil"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">594</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn></cordsysn><geograph><geogunit Sync="TRUE">Decimal degrees</geogunit><latres Sync="TRUE">0.000000</latres><longres Sync="TRUE">0.000000</longres></geograph></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="soil">
+			<enttyp>
+				<enttypl Sync="TRUE">soil</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">594</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">AREA</attrlabl><attalias Sync="TRUE">AREA</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">13</attwidth><atnumdec Sync="TRUE">6</atnumdec></attr><attr><attrlabl Sync="TRUE">PERIMETER</attrlabl><attalias Sync="TRUE">PERIMETER</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">13</attwidth><atnumdec Sync="TRUE">6</atnumdec></attr><attr><attrlabl Sync="TRUE">SOIL_</attrlabl><attalias Sync="TRUE">SOIL_</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">SOIL_ID</attrlabl><attalias Sync="TRUE">SOIL_ID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">ITEM001</attrlabl><attalias Sync="TRUE">ITEM001</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">11</attwidth></attr><attr><attrlabl Sync="TRUE">SOIL_TYPE</attrlabl><attalias Sync="TRUE">SOIL_TYPE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">MAIN_TYPE</attrlabl><attalias Sync="TRUE">MAIN_TYPE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">EH_CLASS</attrlabl><attalias Sync="TRUE">EH_CLASS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">DOM_SOIL</attrlabl><attalias Sync="TRUE">DOM_SOIL</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth></attr><attr><attrlabl Sync="TRUE">ASSOC_1</attrlabl><attalias Sync="TRUE">ASSOC_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">ASSOC_2</attrlabl><attalias Sync="TRUE">ASSOC_2</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">ASSOC_3</attrlabl><attalias Sync="TRUE">ASSOC_3</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">ASSOC_4</attrlabl><attalias Sync="TRUE">ASSOC_4</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">ASS_PER</attrlabl><attalias Sync="TRUE">ASS_PER</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth></attr><attr><attrlabl Sync="TRUE">INCLUD_1</attrlabl><attalias Sync="TRUE">INCLUD_1</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">INCLUD_2</attrlabl><attalias Sync="TRUE">INCLUD_2</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">INCLUD_3</attrlabl><attalias Sync="TRUE">INCLUD_3</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">INCLUD_4</attrlabl><attalias Sync="TRUE">INCLUD_4</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">16</attwidth></attr><attr><attrlabl Sync="TRUE">INC_PER</attrlabl><attalias Sync="TRUE">INC_PER</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>1.022</transize>
+					<dssize Sync="TRUE">1.121</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20060817</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ILRI</cntorg>
+					<cntper>Chege Kariuki</cntper>
+				</cntorgp>
+				<cntpos>Research Officer</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Box 30709 old Naivasha road</address>
+					<city>Nairobi</city>
+					<postal>00100</postal>
+					<country>Kenya</country>
+				</cntaddr>
+				<cntvoice>254-20-4223000</cntvoice>
+				<cntfax>254-20-4223001</cntfax>
+				<cntemail>pkariuki@cgiar.org</cntemail>
+				<hours>0800-1700hrs</hours>
+				<cntinst>contact ILRI GIS unit</cntinst>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>none</metac>
+		<metuc>none</metuc>
+		<metsi>
+			<metsc>Unclassified</metsc>
+		</metsi>
+		<metextns>
+			<onlink>http://www.ilri.org/gis</onlink>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>19800104</CreaDate><CreaTime>01013000</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20060817</SyncDate><SyncTime>15585000</SyncTime><ModDate>20060817</ModDate><ModTime>15585000</ModTime><ArcGISFormat>1.0</ArcGISFormat></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">soil</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">29.04402</westBL><eastBL Sync="TRUE">40.443218</eastBL><northBL Sync="TRUE">-0.990736</northBL><southBL Sync="TRUE">-11.7457</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">29.04402</westBL><eastBL Sync="TRUE">40.443218</eastBL><northBL Sync="TRUE">-0.990736</northBL><southBL Sync="TRUE">-11.7457</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">1.121</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_WGS_1984</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="soil"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">594</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20060817</mdDateSt></metadata>
